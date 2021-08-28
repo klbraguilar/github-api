@@ -9,10 +9,10 @@
                     <mat-card-title>Author: {{commit.author.login}}</mat-card-title>
                     <mat-card-subtitle>Email: {{commit.commit.author.email}}</mat-card-subtitle>
                 </mat-card-header>
-                <!--<img mat-card-image src="" alt={{commit.commit.message}}>-->
+                <!--<img mat-card-image src="" alt=>-->
                 <mat-card-content>
                     <p>
-                        <a href={{commit.html_url}}>Enlace al commit</a> 
+                        <a href={{commit.html_url}}>{{commit.commit.message}}</a> 
                     
                     </p>
                 </mat-card-content>
