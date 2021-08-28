@@ -1,6 +1,7 @@
-# Test
+# Test Instrucciones
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+El proyecto fue creado con Angular. Para poder ejecutarlo es importante el siguiente comando: 
+Run `npm install` para instalar las dependencias del proyecto.
 
 ## Development server
 
