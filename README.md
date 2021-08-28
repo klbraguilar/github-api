@@ -1,7 +1,8 @@
 # Test Instrucciones
-
-El proyecto fue creado con Angular. Para poder ejecutarlo es importante el siguiente comando: 
-Run `npm install` para instalar las dependencias del proyecto.
+Step 1
+Clone or download the project
+step 2
+Run `npm install` to install the dependencies of the project.
 
 ## Development server
 
